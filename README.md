@@ -1,1 +1,1 @@
-# search-details-pptr
+# Puppeteer Search Result Scraper
